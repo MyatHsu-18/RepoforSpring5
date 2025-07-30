@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringWeb2Application {
 
 	public static void main(String[] args) {
-		springApplication.run(SpringWeb2Application.class, args);
+		SpringApplication.run(SpringWeb2Application.class, args);
 	}
 
 }
